@@ -7,7 +7,7 @@ Desafio da escola [Vai na Web](https://www.linkedin.com/company/vainaweb/): Os a
 O gereciador de estoque pode conter até 100 produtos e cada produto deve ter nome, quantidade e preço unitário (preço por unidade do produto). Esses produtos serão armazenados em uma matriz chamada "produtos".
 
 - Matriz: `cadeia produtos[100][3]` 
-- Descrição: Cada linha é um produto, podendo ter até 100, e cada coluna represetna uma informação
+- Descrição: Cada linha é um produto, podendo ter até 100, e cada coluna representa uma informação
   - coluna 0: Nome do Produto
   - coluna 1: Quantidade de Produtos
   - coluna 2: Preço Unitário
